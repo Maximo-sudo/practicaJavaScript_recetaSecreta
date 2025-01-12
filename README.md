@@ -23,10 +23,6 @@ Este proyecto está diseñado para ser una guía paso a paso sobre cómo prepara
 - **1 soplo de aire fresco**
 - **1 cucharada de imaginación**
 
----
-
-¡Espero que disfrutes de esta Agua Deluxe y que te diviertas con la receta! Si decides probarla, no dudes en etiquetarnos o compartir tus fotos. 🍹 ¡Salud!
-
 ```javascript
 console.log(" _________________________")
 console.log("|                         |")
